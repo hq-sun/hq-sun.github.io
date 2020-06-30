@@ -2749,9 +2749,10 @@ input, select, textarea {
 				font-size: 1.75em;
 				margin: 0;
 			}
-
+/* Color for Description under the Name */
 			#header > header p {
-				color: #d2f2e9;
+				color: #FFFAFA;
+				/* color: #d2f2e9; */
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2770,9 +2771,9 @@ input, select, textarea {
 			#header > footer .icons {
 				margin: 0;
 			}
-
+/* Color for social media logos */
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #FFFAFA;
 				}
 
 		#header > nav {
